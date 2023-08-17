@@ -1,4 +1,4 @@
-<img src="asset/arkaziagroups.png"/>
+<img src="./profile/asset/arkaziagroups.png"/>
 
 <h1 align="center">
  Hi there 👋
@@ -20,7 +20,7 @@ About Arkazia 🌊
 </h2>
 
 <p align="center">
-**Arkazia** is much more than a mere server, it's an extraordinary adventure that immerses you in the turbulent waters of an uncharted pirate realm. Our server is powered by <a href="https://github.com/PowerNukkitX">PowerNukkitX</a>, a revolutionary Java software tailored for the Bedrock edition of Minecraft, ensuring a gaming experience that's both seamless and exhilarating.
+<strong>Arkazia</strong> is much more than a mere server, it's an extraordinary adventure that immerses you in the turbulent waters of an uncharted pirate realm. Our server is powered by <a href="https://github.com/PowerNukkitX">PowerNukkitX</a>, a revolutionary Java software tailored for the Bedrock edition of Minecraft, ensuring a gaming experience that's both seamless and exhilarating.
 </p>
 
 <h2 align="center">
@@ -40,12 +40,12 @@ Hoist the sails and set forth together on an unparalleled pirate adventure ! �
 Meet the creators ❤
 </h2>
 
-<p align="center">
+<div align="center">
 - @AzaleeX
 - @Nya-Enzo
 - @PilpoilMC
 - @NoaQRArkasus
-</p>
+</div>
 
 <h4 align="right">
 Social Media
