@@ -1,10 +1,5 @@
 <img src="./profile/asset/arkaziagroups.png"/>
 
-<h1 align="center">
- Hi there 👋
-</h1>
-&nbsp
-
 > [!IMPORTANT]
 > the project takes more time to progress during these holidays
 
