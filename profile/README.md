@@ -43,10 +43,17 @@ Hoist the sails and set forth together on an unparalleled pirate adventure ! �
 Meet the creators ❤
 </h2>
 
- - @AzaleeX 
- - @Nya-Enzo
- - @PilpoilMC
- - @NoaQRArkasus
+<div align="center">
+
+● [@AzaleeX](https://github.com/AzaleeX)
+
+● [@Nya-Enzo](https://github.com/Nya-Enzo)
+
+● [@PilpoilMC](https://github.com/PilpoilMC)
+
+● [@NoaQRArkasus](https://github.com/NoaQRArkasus)
+
+</div>
 
 <h4 align="right">
 Social Media
