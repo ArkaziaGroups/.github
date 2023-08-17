@@ -3,17 +3,18 @@
 <h1 align="center">
  Hi there 👋
 </h1>
+&nbsp
 
 > [!IMPORTANT]
 > the project takes more time to progress during these holidays
 
+
 <h3 align="center">
+&nbsp
 Welcome aboard the Arkazia organization 🏴‍☠️
 </h3>
 
-<p align="center">
 > We're thrilled to have you join our virtual haven dedicated to the captivating world of piracy on Minecraft Bedrock Edition. ⚓️
-</p>
 
 <h2 align="center">
 About Arkazia 🌊
@@ -22,6 +23,7 @@ About Arkazia 🌊
 <p align="center">
 <strong>Arkazia</strong> is much more than a mere server, it's an extraordinary adventure that immerses you in the turbulent waters of an uncharted pirate realm. Our server is powered by <a href="https://github.com/PowerNukkitX">PowerNukkitX</a>, a revolutionary Java software tailored for the Bedrock edition of Minecraft, ensuring a gaming experience that's both seamless and exhilarating.
 </p>
+&nbsp
 
 <h2 align="center">
 🏴‍☠️ Join the Pirate Brotherhood  !
@@ -30,6 +32,7 @@ About Arkazia 🌊
 <p align="center">
 Welcome to the ruthless, thrilling, treasure-filled world of Arkazia ! Check out our <a href="https://discord.gg/eF79vESm5S">New Pirate's Guide</a> to familiarize yourself with the rules of the game and dive headfirst into the action.
 </p>
+&nbsp
 
 <h3 align="center">
 Hoist the sails and set forth together on an unparalleled pirate adventure ! 🦜
@@ -40,12 +43,10 @@ Hoist the sails and set forth together on an unparalleled pirate adventure ! �
 Meet the creators ❤
 </h2>
 
-<div align="center">
 - @AzaleeX
 - @Nya-Enzo
 - @PilpoilMC
 - @NoaQRArkasus
-</div>
 
 <h4 align="right">
 Social Media
