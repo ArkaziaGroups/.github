@@ -16,7 +16,7 @@ About Arkazia 🌊
 </h2>
 
 <p align="center">
-<strong>Arkazia</strong> is much more than a mere server, it's an extraordinary adventure that immerses you in the turbulent waters of an uncharted pirate realm. Our server is powered by <a href="https://github.com/PowerNukkitX">PowerNukkitX</a>, a revolutionary Java software tailored for the Bedrock edition of Minecraft, ensuring a gaming experience that's both seamless and exhilarating.
+<strong>Arkazia</strong> is much more than a mere server, it's an extraordinary adventure that immerses you in the turbulent waters of an uncharted pirate realm. Our server is powered by <a href="[https://github.com/PowerNukkitX](https://github.com/pmmp/PocketMine-MP)">Pocketmine-MP</a>, a revolutionary PHP software tailored for the Bedrock edition of Minecraft, ensuring a gaming experience that's both seamless and exhilarating.
 </p>
 &nbsp
 
@@ -41,10 +41,6 @@ Meet the creators ❤
 <div align="center">
 
 ● [@AzaleeX](https://github.com/AzaleeX)
-
-● [@Nya-Enzo](https://github.com/Nya-Enzo)
-
-● [@PilpoilMC](https://github.com/PilpoilMC)
 
 ● [@NoaQRArkasus](https://github.com/NoaQRArkasus)
 
