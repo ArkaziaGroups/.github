@@ -42,6 +42,10 @@ Meet the creators ❤
 
 ● [@AzaleeX](https://github.com/AzaleeX)
 
+● [@Nya-Enzo](https://github.com/Nya-Enzo)
+
+● [@PilpoilMC](https://github.com/PilpoilMC)
+
 ● [@NoaQRArkasus](https://github.com/NoaQRArkasus)
 
 </div>
