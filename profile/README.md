@@ -46,8 +46,6 @@ Meet the creators ❤
 
 ● [@PilpoilMC](https://github.com/PilpoilMC)
 
-● [@NoaQRArkasus](https://github.com/NoaQRArkasus)
-
 </div>
 
 <h4 align="right">
